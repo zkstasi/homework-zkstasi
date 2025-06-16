@@ -6,6 +6,6 @@ func main() {
 	aPlusB()
 }
 func aPlusB() {
-	fmt.Println(1 + 1)
+	fmt.Println(2 + 2)
 
 }

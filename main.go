@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("Привет, Анастасия!")
+	aPlusB()
+}
+func aPlusB() {
+	fmt.Println(1 + 1)
+
 }

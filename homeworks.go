@@ -2,19 +2,18 @@ package main
 
 import "fmt"
 
-func main() {
+func homeWork3(count int) {
 
 	str1 := "#"
 	str2 := " "
-	num := 8
 
 	var chessboard string
 
-	for i := 0; i < num; i++ {
+	for i := 0; i < count; i++ {
 
 		emptyStr := ""
 
-		for j := 0; j < num; j++ {
+		for j := 0; j < count; j++ {
 
 			if (i+j)%2 == 0 {
 				emptyStr += str1

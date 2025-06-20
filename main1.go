@@ -6,7 +6,7 @@ func main() {
 
 	str1 := "#"
 	str2 := " "
-	num := 5
+	num := 8
 
 	var chessboard string
 

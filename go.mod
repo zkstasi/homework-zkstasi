@@ -1,3 +1,2 @@
-module https://github.com/zkstasi/AB1
-
+module homework-zkstasi
 go 1.24.4
